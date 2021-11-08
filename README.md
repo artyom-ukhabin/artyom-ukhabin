@@ -1,0 +1,2 @@
+I'm a Fullstack Developer who enjoy building complex systems. At the same time I avoid to make them complicated. I always try to keep the difficulty at acceptable level in any part of programming process. My main goal is making all the things as transparent as I can because I strongly believe that clean code, clear communications and understandable decisions make magic.  
+Familiar with testing. Like to learn how to design applications better and save them from becoming unmaintainable.
